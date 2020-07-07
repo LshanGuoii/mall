@@ -1,0 +1,15 @@
+// module.exports = {
+//     plugins: {
+//      autoprefixer:{},
+//      "postcss-px-to-viewport":{
+//          viewportWidth:375,
+//          viewportHeight:667,
+//          unitPrecision:5,
+//          viewportUnit:'vm',
+//          selectorBlackList:['ignore','tab-bar','tab-bar-item'],
+//          minPixeIValue:1,
+//          mediaQuery:false,
+//          exculde:[/TabBar$/]
+//      }
+//     }
+//   };
